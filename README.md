@@ -27,9 +27,5 @@ Enter the first number: 10
 Enter the second number: 4
 The answer is 6.0
 
-🔒 Notes
-
-* Handles non-numeric input
-* Prevents division by zero
 
 
