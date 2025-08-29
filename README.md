@@ -29,6 +29,7 @@ The answer is 6.0
 
 NOTES
 
-*Handles non-numeric input
-*Prevents division by zero
+* Handles non-numeric input
+  
+* Prevents division by zero
 
