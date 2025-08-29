@@ -13,13 +13,13 @@ def calculator():
         except  ValueError:
             print("invalid input:please enter a number")
             return
-        if choice==1:
+        if choice=='1':
             print("The answer is",a+b)
-        elif choice==2:
+        elif choice=='2':
             print("The answer is",a-b)
-        elif choice==3:
+        elif choice=='3':
             print("The answer is",a*b)
-        elif choice==4:
+        elif choice=='4':
             print("The answer is",a/b)
     else:
             print("invalid input")
